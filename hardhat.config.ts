@@ -1,6 +1,7 @@
 import 'hardhat-deploy'
 import "@nomiclabs/hardhat-ethers"
 import "@nomicfoundation/hardhat-chai-matchers"
+import "dotenv/config"
 import { HardhatUserConfig } from 'hardhat/types';
 
 /** @type import('hardhat/config').HardhatUserConfig */
