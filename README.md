@@ -30,7 +30,7 @@ npx hardhat test
 ```
 
 ## Licence
-Distributed under GNUv3 License. See `LICENSE` for more information
+Distributed under GPLv3 License. See `LICENSE` for more information
 
 ## Acknowledgments
 [Patrick Collins freeCodeCamp cource](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
