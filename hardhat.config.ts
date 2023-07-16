@@ -19,7 +19,10 @@ const config: HardhatUserConfig = {
   namedAccounts: {
     deployer: {
       default: 0,
-    }
+    },
+    donator: {
+      default: 1,
+    },
   }
 };
 
